@@ -1,0 +1,10 @@
+.nav-link i {
+    font-size: 1.25rem;
+}
+.profile-picture {
+    width: 36px;
+    height: 36px;
+}
+.navbar-nav {
+    gap: 0.5rem;
+}
